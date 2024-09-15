@@ -42,8 +42,11 @@ Hi, I'm Jawad Boulmal, a skilled web developer proficient in HTML, CSS,  JavaScr
   Find me around the web 🌎:
 </h1>
 
+
 <p>
   -> Contact me on my <a href="mailto:jawadboulmal@gmail.com">Email</a> <br>
   -> Go to my <a target="_blank" href="skayologie.github.io">Website</a>
 </p>
  
+<br>
+<h6 align="center">2024 | Jawad Boulmal</h6>
