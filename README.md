@@ -16,7 +16,7 @@ Hi, I'm Jawad Boulmal, a skilled web developer proficient in HTML, CSS,  JavaScr
 <p align="center" >
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skayologie&layout=compact&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=skayologie&theme=dracula&hide_border=true&card_width=200&card_height=150&hide_current_streak=true&hide_longest_streak=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=skayologie&theme=dracula&hide_border=true&card_width=200&card_height=150&hide_current_streak=true&hide_longest_streak=true"/>
 </p>
 
 
