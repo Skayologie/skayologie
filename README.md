@@ -45,7 +45,7 @@ Hi, I'm Jawad Boulmal, a skilled web developer proficient in HTML, CSS,  JavaScr
 
 <p>
   -> Contact me on my <a href="mailto:jawadboulmal@gmail.com">Email</a> <br>
-  -> Go to my <a target="_blank" href="skayologie.github.io">Website</a>
+  -> Go to my <a target="_blank" href="https://jawadboulmal.com/">Website</a>
 </p>
  
 <br>
